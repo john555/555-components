@@ -1,6 +1,8 @@
 # 555-components
 
-Quick react component Examples
+Quick react component code examples.
+
+<img src="docs/screenshot.jpg" />
 
 ## Requirements
 
